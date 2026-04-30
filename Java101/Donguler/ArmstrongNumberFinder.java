@@ -1,3 +1,4 @@
+package Java101.Donguler;
 import java.util.Scanner;
 
 public class ArmstrongNumberFinder {
